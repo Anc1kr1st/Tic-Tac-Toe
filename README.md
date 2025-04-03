@@ -9,7 +9,8 @@ Tic Tac Toe is a two-player game in which the objective is to take turns and mar
 ![Static Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ## Preview
-### Interface: 
+<img width="210" alt="image" src="https://github.com/user-attachments/assets/9cee4f2b-3726-4d1b-8ad5-e224b767f1c5" />
+
 
 
 
